@@ -149,7 +149,7 @@
         <slf4j-api.version>1.7.12</slf4j-api.version>
         <!-- Log version properties end -->
 
-        <shiro.version>1.2.4</shiro.version>
+        <shiro.version>1.3.2</shiro.version>
         <kaptcha.version>0.0.9</kaptcha.version>
         <jetty.version>8.1.16.v20140903</jetty.version>
         <sitemesh.version>3.0.1</sitemesh.version>
